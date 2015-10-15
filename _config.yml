@@ -1,0 +1,17 @@
+# Site settings
+title: Jotunheim
+email: jotunheim@fenrir.net
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jotunherim.fenrir.net" # the base hostname & protocol for your site
+github_username: toz 
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+github: [Repository metadata]
+permalink: pretty
+safe: true
+lsi: true
+gems:
+ - jekyll-redirect-from
+ - jemoji
