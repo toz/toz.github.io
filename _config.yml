@@ -1,8 +1,8 @@
 # Site settings
-title: Jotunheim
-email: jotunheim@fenrir.net
+title: saga
+email: saga@fenrir.net
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jotunherim.fenrir.net" # the base hostname & protocol for your site
+url: "http://saga.fenrir.net" # the base hostname & protocol for your site
 github_username: toz 
 
 # Build settings
